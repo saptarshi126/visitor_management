@@ -17,4 +17,8 @@ using visitor details such as name, flat number, and contact number.
 
 ## How to Run (Terminal Version)
 ```bash
+
+### Author
+Saptarshi kundu
 python3 app.py
+
